@@ -1,8 +1,8 @@
-# 🐍 python daily quest
+# python daily quest
 
 just a cozy little corner where i solve random python questions and keep my coding streak alive! ✨
 
-> **goal:** code everyday, learn something new, and stack up those green dots on the github contribution graph. 🟩🚀
+> **goal:** code everyday, learn something new.
 
 ---
 
